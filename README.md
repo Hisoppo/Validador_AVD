@@ -4,7 +4,7 @@ Vou desenvolver um robô em Python que faz a verificação dos arquivos antes de
 
 Ele vai ter como entrada o caminho para a pasta de XMLs, o caminho da planilha de NFs e o caminho do AVD e irá perguntar se esse é o primeiro, o segundo ou o terceiro lote.
 
-O AVD estará da seguinte maneira (dados fictícios, apenas para exemplo):  ONS;Transmissora;CNPJ;Valor;Check;Check1;Check2;Check3
+O AVD estará da seguinte maneira (dados fictícios, apenas para exemplo):ONS;Transmissora;CNPJ;Valor;Check;Check1;Check2;Check3
 0001;ONS;”CNPJONS’;1000;OK;OK
 
 
